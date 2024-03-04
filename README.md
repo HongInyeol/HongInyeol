@@ -7,4 +7,4 @@ I'm Hong Inyeol and Front-end developer.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongInyeol&show_icons=true&title_color=E6D5B8&text_color=F0A500&icon_color=1B1A17)
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=HongInyoel)](https://github.com/anuraghazra/github-readme-stats)
+
