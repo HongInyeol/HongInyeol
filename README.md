@@ -6,7 +6,4 @@ I'm Hong Inyeol and Front-end developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongInyeol&show_icons=true&title_color=E6D5B8&text_color=F0A500&icon_color=1B1A17)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongInyeol&layout=compact&hide=GLSL&langs_count=4)](https://github.com/HongInyeol/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL&langs_count=4)](https://github.com/HongInyeol/github-readme-stats)
